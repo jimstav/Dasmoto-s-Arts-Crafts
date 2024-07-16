@@ -1,0 +1,44 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: 1.6rem;
+  margin: 3rem 1.5rem 2rem;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 10rem;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(../images/pattern.webp);
+}
+
+h2 {
+  font-size: 3.2rem;
+  font-weight: bold;
+  color: white;
+}
+
+.brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+.frames h2 {
+  background-color: lightcoral;
+}
+
+.paint h2 {
+  background-color: skyblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
